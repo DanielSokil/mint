@@ -56,6 +56,9 @@ require "./documentation_generator/**"
 require "./documentation_generator"
 require "./documentation_server"
 
+require "./ast_explorer/**"
+require "./ast_explorer"
+
 require "./test_runner/**"
 require "./test_runner"
 
